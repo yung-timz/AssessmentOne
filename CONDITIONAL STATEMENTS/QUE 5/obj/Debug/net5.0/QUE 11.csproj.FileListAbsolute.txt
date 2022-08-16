@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\bin\Debug\net5.0\QUE 11.exe
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\bin\Debug\net5.0\QUE 11.deps.json
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\bin\Debug\net5.0\QUE 11.runtimeconfig.json
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\bin\Debug\net5.0\QUE 11.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\bin\Debug\net5.0\QUE 11.dll
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\bin\Debug\net5.0\ref\QUE 11.dll
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\bin\Debug\net5.0\QUE 11.pdb
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\obj\Debug\net5.0\QUE 11.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\obj\Debug\net5.0\QUE 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\obj\Debug\net5.0\QUE 11.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\obj\Debug\net5.0\QUE 11.AssemblyInfo.cs
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\obj\Debug\net5.0\QUE 11.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\obj\Debug\net5.0\QUE 11.dll
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\obj\Debug\net5.0\ref\QUE 11.dll
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\obj\Debug\net5.0\QUE 11.pdb
+C:\Users\USER\Desktop\Assesment que\CONDITIONAL STATEMENTS\QUE 5\obj\Debug\net5.0\QUE 11.genruntimeconfig.cache
